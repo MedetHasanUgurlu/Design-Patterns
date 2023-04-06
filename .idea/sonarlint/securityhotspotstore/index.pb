@@ -10,8 +10,6 @@ h
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 n
 >src/main/java/org/medron/factorypattern/pack/ShapeFactory.java,8\b\8bb1df0a806fe195c29e6e0076cab345395f796b
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 j
 :src/main/java/org/medron/factorypattern/pack/PackMain.java,2\d\2de66ea9b6d46a6148345b394445cd36d5add460
 s
