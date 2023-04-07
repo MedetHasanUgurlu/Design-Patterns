@@ -4,7 +4,7 @@
 3) [Factory Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/factorypattern)
 4) [Singleton Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/singletonpattern)
 5) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
-
+6) [Proxy Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/proxypattern)
 ***
 ###### Every day adding one balloon to achieve to target.
 
