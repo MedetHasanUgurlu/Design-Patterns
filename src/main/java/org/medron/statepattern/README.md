@@ -6,6 +6,10 @@
 3) Then, create a Maker class, add the behaviour as well.
 4) When we create maker we can call setState() or we inject in constructor.
 
+### KEY POİNTS
+* **Inject** the *state* interface in maker class. 
+*  Rearrange the code.
+
 ****
 State interface
 
