@@ -36,3 +36,5 @@
     }}
 
 ****
+
+# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns)

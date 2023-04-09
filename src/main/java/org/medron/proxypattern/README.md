@@ -51,3 +51,6 @@ Bu desen, çeşitli senaryolarda kullanılabilir. Örneğin, ağdaki uzaktaki bi
     Dosya dosya = new ProxyDosya("ornek_dosya.txt");
     dosya.oku(); // dosya yükleniyor ve okunuyor
     dosya.oku(); // sadece dosya okunuyor (yükleme işlemi tekrar yapılmıyor)
+
+
+# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns)

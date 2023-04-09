@@ -41,7 +41,7 @@
         s.info();
     }
 
-
+# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns)
 
 
 
