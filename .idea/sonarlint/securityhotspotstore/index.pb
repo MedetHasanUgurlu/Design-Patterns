@@ -14,8 +14,6 @@ j
 :src/main/java/org/medron/factorypattern/pack/PackMain.java,2\d\2de66ea9b6d46a6148345b394445cd36d5add460
 s
 Csrc/main/java/org/medron/singletonpattern/MainSingletonPattern.java,3\0\309706efb18180e2cda743d3d1f544d55ce6db16
-c
-3src/main/java/org/medron/singletonpattern/README.md,1\6\16d5b32abe05d1681a675415ad8b146f89b1de72
 q
 Asrc/main/java/org/medron/factorypattern/pack2/ShapeFactoryV2.java,1\d\1d43a2046db3f26a5e6433a9e72163131cf69984
 m
@@ -34,8 +32,6 @@ h
 8src/main/java/org/medron/factorypattern/pack2/Shape.java,2\b\2bc89ba9e47a33823da6f60d585378275f99c51b
 o
 ?src/main/java/org/medron/factorypattern/MainFactoryPattern.java,c\1\c1f9957e03301dc6183c9138bb037582205aeb0d
-a
-1src/main/java/org/medron/factorypattern/README.md,6\2\6279e525ec3c4db0f4f560616047396dd5f6732c
 Å
 Q.idea/sonarlint/securityhotspotstore/2/d/2de66ea9b6d46a6148345b394445cd36d5add460,d\2\d28c21db2786acbcfda0e3c278d1e4c055ca9bb8
 Å
@@ -124,16 +120,12 @@ g
 7src/main/java/org/medron/adapterpattern/pack2/Main.java,9\2\9248ab6c587b75c4947cdd1e452e4ed384fda698
 Å
 Q.idea/sonarlint/securityhotspotstore/2/b/2bc89ba9e47a33823da6f60d585378275f99c51b,1\b\1b52f8d3aee4657142f1a03ec88bf88de0584f0a
-a
-1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
 m
 =src/main/java/org/medron/templatepattern/pack/Basketball.java,1\9\1927b4ae4520836cf265d4c0e634b84c0908a7ce
 g
 7src/main/java/org/medron/templatepattern/pack/Main.java,9\1\911e63f569c3a6fbe0836505851b918b9d2c0ac9
 i
 9src/main/java/org/medron/templatepattern/pack/Soccer.java,e\4\e4c1ec767daafce1fd14fd39bfd36e0c95ec0a3e
-a
-1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607
 b
 2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
 g
