@@ -134,3 +134,7 @@ i
 9src/main/java/org/medron/templatepattern/pack/Soccer.java,e\4\e4c1ec767daafce1fd14fd39bfd36e0c95ec0a3e
 a
 1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607
+b
+2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
+g
+7src/main/java/org/medron/templatepattern/pack/Game.java,c\8\c87909cd5b1d29539ff8cbdb7aa2dfef268a91c7
