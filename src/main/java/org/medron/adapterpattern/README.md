@@ -15,6 +15,7 @@
     void aMethod();
     void aMethod2();
     }
+
 ****
     public class AConcretes implements A{
     @Override
@@ -27,11 +28,13 @@
         System.out.println("A method 2");
     }}
 ****
+
     public interface B {
     void bMethod();
     void bMethod2();
     }
-*****
+
+****
     public class BConcretes implements B{
     @Override
     public void bMethod() {
