@@ -122,8 +122,6 @@ g
 7src/main/java/org/medron/templatepattern/pack/Main.java,9\1\911e63f569c3a6fbe0836505851b918b9d2c0ac9
 i
 9src/main/java/org/medron/templatepattern/pack/Soccer.java,e\4\e4c1ec767daafce1fd14fd39bfd36e0c95ec0a3e
-b
-2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
 g
 7src/main/java/org/medron/templatepattern/pack/Game.java,c\8\c87909cd5b1d29539ff8cbdb7aa2dfef268a91c7
 e
@@ -158,7 +156,21 @@ f
 6src/main/java/org/medron/statepattern/pack2/State.java,e\3\e38c3a22e4462a12273b3cc41c42e93ea6814100
 n
 >src/main/java/org/medron/statepattern/pack2/EspressoState.java,1\a\1a86e8fdcc54d46f0eee75d51ac0abeab43fafb2
-_
-/src/main/java/org/medron/statepattern/README.md,1\9\19fce321af239fad97c6179a651696c41222360d
 e
 5src/main/java/org/medron/statepattern/pack2/Main.java,9\0\90d46772bf87d586da072cab025d6ce0346a00b3
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+c
+3src/main/java/org/medron/singletonpattern/README.md,1\6\16d5b32abe05d1681a675415ad8b146f89b1de72
+_
+/src/main/java/org/medron/proxypattern/README.md,4\4\44d832c157eb8e1a5ae5ef1825f8061095148e0f
+a
+1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607
+l
+<src/main/java/org/medron/statepattern/pack2/CoffeeMaker.java,5\7\57843fde468d8dafd0fc3de8d6950b7e248e624c
+a
+1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
+b
+2src/main/java/org/medron/compoundpattern/README.md,a\0\a0841088faa50460ab8f5f6f057b2122355921c0
+a
+1src/main/java/org/medron/factorypattern/README.md,6\2\6279e525ec3c4db0f4f560616047396dd5f6732c
