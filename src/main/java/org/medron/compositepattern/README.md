@@ -14,6 +14,8 @@
 It should be either an **interface or an abstract class** with the common methods to manage the child composites.
 
 
+
+
     public interface Department {
     void showInfo();
     }
@@ -22,6 +24,8 @@ It should be either an **interface or an abstract class** with the common method
 
 * leaf – implements the default behavior of the base component. 
     It doesn't contain a reference to the other objects.
+
+
 
 
     public class FinancialDepartment implements Department{
@@ -52,6 +56,7 @@ It should be either an **interface or an abstract class** with the common method
 
 * composite – has leaf elements. It implements the base component methods and defines the child-related operations.
     
+
 
     public class HeadDepartment implements Department{
     Logger logger = Logger.getLogger("HeadDepartment.class.getName()");
