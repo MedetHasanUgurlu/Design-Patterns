@@ -6,8 +6,6 @@ h
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 h
 8src/main/java/org/medron/factorypattern/pack/Circle.java,8\7\8742d986c44de8efb9bab5cb992f2400357ad152
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 n
 >src/main/java/org/medron/factorypattern/pack/ShapeFactory.java,8\b\8bb1df0a806fe195c29e6e0076cab345395f796b
 j
