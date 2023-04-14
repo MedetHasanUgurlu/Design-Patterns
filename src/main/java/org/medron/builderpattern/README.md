@@ -70,3 +70,5 @@
         System.out.println(computer.toString());
     }
 **Computer{brand='MSI', model='RTX-3060', year=2020, memory=32}**
+
+## [«««Home«««](https://github.com/MedetHasanUgurlu/Design-Patterns)
