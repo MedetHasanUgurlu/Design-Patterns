@@ -5,6 +5,8 @@
 2) In static builder class you set the value then return the static class.
 3) Finally, write build method which take static class and return the new Entity.
 
+***
+
 
     @Getter
     @Setter
@@ -57,6 +59,7 @@
                 ", memory=" + memory +
                 '}';
     }
+<br>
 
 **Result**
     

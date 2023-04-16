@@ -178,12 +178,8 @@ j
 :src/main/java/org/medron/builderpattern/pack/Computer.java,a\f\afb068b8f4682bf0895889e7f4e86cc81d7cce7f
 w
 Gsrc/main/java/org/medron/compositepattern/pack/FinancialDepartment.java,2\0\2086c3a5bfc51fdaaea4e475715fa7b086f127eb
-a
-1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
 g
 7src/main/java/org/medron/builderpattern/pack2/User.java,d\c\dcfe6bb8de6642aca5ee917163395fe5599c2dd8
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 f
 6src/main/java/org/medron/builderpattern/pack/Main.java,7\b\7bfca20fa4500b38673dd861000d1ad33f5b5944
 7
