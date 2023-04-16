@@ -88,10 +88,6 @@ i
 9src/main/java/org/medron/commandpattern/pack/Command.java,4\4\4428b4671c00e1c7fc16e5b57aceb7a9d34ea4bf
 f
 6src/main/java/org/medron/adapterpattern/pack/Duck.java,d\d\ddd09a1c6929476aafe407c464ce8eb1428661d8
-g
-7src/main/java/org/medron/commandpattern/pack/Light.java,9\7\978597040442a48b9ba301ea54424de1dd82ab67
-p
-@src/main/java/org/medron/commandpattern/pack/LightOnCommand.java,4\5\45dc1fefa91857ea0c3c7b69204b7e540055cb20
 f
 6src/main/java/org/medron/adapterpattern/pack/Main.java,9\f\9fcb2b9bec60a23296f1edcac9f1f9fea69c0d0e
 a

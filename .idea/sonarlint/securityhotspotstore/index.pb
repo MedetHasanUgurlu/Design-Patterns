@@ -82,10 +82,6 @@ Bsrc/main/java/org/medron/commandpattern/pack/RemoteController.java,5\8\58e567f
 Q.idea/sonarlint/securityhotspotstore/1/d/1d43a2046db3f26a5e6433a9e72163131cf69984,f\9\f9381c64707c663c3dce297254951faf920f357f
 f
 6src/main/java/org/medron/commandpattern/pack/Main.java,8\4\84634d4302cec6b5359327bd43db192827525318
-g
-7src/main/java/org/medron/commandpattern/pack/Light.java,9\7\978597040442a48b9ba301ea54424de1dd82ab67
-p
-@src/main/java/org/medron/commandpattern/pack/LightOnCommand.java,4\5\45dc1fefa91857ea0c3c7b69204b7e540055cb20
 i
 9src/main/java/org/medron/commandpattern/pack/Command.java,4\4\4428b4671c00e1c7fc16e5b57aceb7a9d34ea4bf
 a
