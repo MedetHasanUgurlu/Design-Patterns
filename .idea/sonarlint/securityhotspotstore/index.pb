@@ -35,8 +35,6 @@ Q.idea/sonarlint/securityhotspotstore/2/d/2de66ea9b6d46a6148345b394445cd36d5add4
 
 Q.idea/sonarlint/securityhotspotstore/1/b/1b79513ea0fdeaba970958cd0aaa5a5566193c2d,2\b\2bb9555bc7eea7ca9ef40f340e7375c924566976
 
-Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
-
 Q.idea/sonarlint/securityhotspotstore/7/4/74ce7e0ac310ac1181db0e7609b6d2aab26bb291,7\6\76e70c9e1bc623f6afa2ca26663484c8a3fbbbc2
 
 Q.idea/sonarlint/securityhotspotstore/8/7/8742d986c44de8efb9bab5cb992f2400357ad152,0\7\07a40a3901b42e92a575be63cc50111f0412d675
@@ -62,8 +60,6 @@ w
 G.idea/sonarlint/issuestore/2/d/2de66ea9b6d46a6148345b394445cd36d5add460,b\c\bce69bc10f877b82fbf67e11ecd982d9e416325e
 w
 G.idea/sonarlint/issuestore/2/5/251486d6110179bb78bcd68728c43374b551de16,b\1\b168fe06572fb580f63a63c8d676082b3cea4b34
-w
-G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 w
 G.idea/sonarlint/issuestore/b/2/b24e37dc98acd2f4bcf26f3cf715414f19513978,8\a\8ab2a281b15548ed49d2fbbd0802fa51696fe49e
 
@@ -156,12 +152,6 @@ n
 >src/main/java/org/medron/statepattern/pack2/EspressoState.java,1\a\1a86e8fdcc54d46f0eee75d51ac0abeab43fafb2
 e
 5src/main/java/org/medron/statepattern/pack2/Main.java,9\0\90d46772bf87d586da072cab025d6ce0346a00b3
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-c
-3src/main/java/org/medron/singletonpattern/README.md,1\6\16d5b32abe05d1681a675415ad8b146f89b1de72
-_
-/src/main/java/org/medron/proxypattern/README.md,4\4\44d832c157eb8e1a5ae5ef1825f8061095148e0f
 a
 1src/main/java/org/medron/factorypattern/README.md,6\2\6279e525ec3c4db0f4f560616047396dd5f6732c
 a
@@ -172,3 +162,33 @@ b
 2src/main/java/org/medron/compoundpattern/README.md,a\0\a0841088faa50460ab8f5f6f057b2122355921c0
 a
 1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
+n
+>src/main/java/org/medron/compositepattern/pack/Department.java,a\9\a9ac53e79d6e6cfb0e87d11bad140bdf3c2cd886
+s
+Csrc/main/java/org/medron/compositepattern/pack/SalesDepartment.java,4\d\4d6159d0f3a51c0149c036d9740064d1183f8f24
+r
+Bsrc/main/java/org/medron/compositepattern/pack/HeadDepartment.java,a\c\acdfbf4ca71d1223208e77b0407cb369230ced29
+c
+3src/main/java/org/medron/compositepattern/README.md,4\e\4e45671aa8c53656b81367f45795921222ff419b
+h
+8src/main/java/org/medron/compositepattern/pack/Main.java,f\0\f04be4d1bcb652e468458ff23d25234e5577ce6e
+c
+3src/main/java/org/medron/singletonpattern/README.md,1\6\16d5b32abe05d1681a675415ad8b146f89b1de72
+j
+:src/main/java/org/medron/builderpattern/pack/Computer.java,a\f\afb068b8f4682bf0895889e7f4e86cc81d7cce7f
+w
+Gsrc/main/java/org/medron/compositepattern/pack/FinancialDepartment.java,2\0\2086c3a5bfc51fdaaea4e475715fa7b086f127eb
+a
+1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
+g
+7src/main/java/org/medron/builderpattern/pack2/User.java,d\c\dcfe6bb8de6642aca5ee917163395fe5599c2dd8
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+f
+6src/main/java/org/medron/builderpattern/pack/Main.java,7\b\7bfca20fa4500b38673dd861000d1ad33f5b5944
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+b
+2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
+_
+/src/main/java/org/medron/statepattern/README.md,1\9\19fce321af239fad97c6179a651696c41222360d
