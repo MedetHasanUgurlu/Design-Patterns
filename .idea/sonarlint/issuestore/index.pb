@@ -152,12 +152,8 @@ n
 >src/main/java/org/medron/statepattern/pack2/EspressoState.java,1\a\1a86e8fdcc54d46f0eee75d51ac0abeab43fafb2
 e
 5src/main/java/org/medron/statepattern/pack2/Main.java,9\0\90d46772bf87d586da072cab025d6ce0346a00b3
-a
-1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607
 l
 <src/main/java/org/medron/statepattern/pack2/CoffeeMaker.java,5\7\57843fde468d8dafd0fc3de8d6950b7e248e624c
-a
-1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
 b
 2src/main/java/org/medron/compoundpattern/README.md,a\0\a0841088faa50460ab8f5f6f057b2122355921c0
 a
@@ -208,8 +204,6 @@ n
 >src/main/java/org/medron/mementopattern/pack2/GameMemento.java,e\6\e6acc4569ab8e8392efe4360ea4ba683e0b904c4
 m
 =src/main/java/org/medron/mementopattern/pack/SaveManager.java,4\0\409cc9c7c470ab3443061582867b0d4846e162e5
-a
-1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
 Å
 Q.idea/sonarlint/securityhotspotstore/3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88,6\7\67eaf978e530588b1f14f51aeca296c2b659e272
 w

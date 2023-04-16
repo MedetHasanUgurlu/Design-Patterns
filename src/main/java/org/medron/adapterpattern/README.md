@@ -1,7 +1,7 @@
 # Adapter Pattern
 "The Sith Control Everything, You Just Don't Know It."  
 ****
-![img.png](img.png)
+![img_2.png](img_2.png)
 
 ### Recipes
 1) Write adapter class which you want to adapt to another class.

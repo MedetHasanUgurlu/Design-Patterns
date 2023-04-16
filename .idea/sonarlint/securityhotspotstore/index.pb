@@ -154,14 +154,10 @@ e
 5src/main/java/org/medron/statepattern/pack2/Main.java,9\0\90d46772bf87d586da072cab025d6ce0346a00b3
 a
 1src/main/java/org/medron/factorypattern/README.md,6\2\6279e525ec3c4db0f4f560616047396dd5f6732c
-a
-1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607
 l
 <src/main/java/org/medron/statepattern/pack2/CoffeeMaker.java,5\7\57843fde468d8dafd0fc3de8d6950b7e248e624c
 b
 2src/main/java/org/medron/compoundpattern/README.md,a\0\a0841088faa50460ab8f5f6f057b2122355921c0
-a
-1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
 n
 >src/main/java/org/medron/compositepattern/pack/Department.java,a\9\a9ac53e79d6e6cfb0e87d11bad140bdf3c2cd886
 s
@@ -196,8 +192,6 @@ a
 1src/main/java/org/medron/mementopattern/README.md,3\e\3efd6b7b3afff0ebe299310a38b343f8394e914b
 f
 6src/main/java/org/medron/mementopattern/pack/Game.java,4\8\48c7fe6fe755692d85d6a11c65f035cef48098ca
-a
-1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
 g
 7src/main/java/org/medron/mementopattern/pack2/Main.java,d\7\d7038b9a1d47a6df888d2f99189371e71d2f4c91
 n
