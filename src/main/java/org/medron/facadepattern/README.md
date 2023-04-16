@@ -4,7 +4,7 @@
 #### Recipe
 1) Subsystem should be connected to Facade.
 2) Facade does not affect the behaviour of subsystem.
-3) Facade only use it
+3) Facade only uses it
 ***
 **_Facade_**
 
