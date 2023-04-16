@@ -188,3 +188,27 @@ b
 2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
 _
 /src/main/java/org/medron/statepattern/README.md,1\9\19fce321af239fad97c6179a651696c41222360d
+_
+/src/main/java/org/medron/proxypattern/README.md,4\4\44d832c157eb8e1a5ae5ef1825f8061095148e0f
+i
+9src/main/java/org/medron/mementopattern/pack/Memento.java,d\d\dd43a6f6f1e1482b657d52013e6255f112f53f4c
+a
+1src/main/java/org/medron/mementopattern/README.md,3\e\3efd6b7b3afff0ebe299310a38b343f8394e914b
+f
+6src/main/java/org/medron/mementopattern/pack/Game.java,4\8\48c7fe6fe755692d85d6a11c65f035cef48098ca
+g
+7src/main/java/org/medron/mementopattern/pack2/Main.java,d\7\d7038b9a1d47a6df888d2f99189371e71d2f4c91
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+n
+>src/main/java/org/medron/mementopattern/pack2/GameManager.java,4\c\4c626ebcf6f86e06d662280f0f562c2ac17c5b56
+g
+7src/main/java/org/medron/mementopattern/pack2/Game.java,b\9\b9f74ef296434f296f9d2b073b1a43561db8910a
+f
+6src/main/java/org/medron/mementopattern/pack/Main.java,8\b\8b888ece0dad4ebdc8ce5adcf8ac390b7e34cad8
+n
+>src/main/java/org/medron/mementopattern/pack2/GameMemento.java,e\6\e6acc4569ab8e8392efe4360ea4ba683e0b904c4
+m
+=src/main/java/org/medron/mementopattern/pack/SaveManager.java,4\0\409cc9c7c470ab3443061582867b0d4846e162e5
+a
+1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
