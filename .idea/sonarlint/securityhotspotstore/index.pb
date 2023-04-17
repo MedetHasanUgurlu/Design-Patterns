@@ -450,8 +450,6 @@ i
 9src/main/java/org/medron/facadepattern/pack/Computer.java,9\4\94364d11133455ef759bf046c31423b49ae89c87
 e
 5src/main/java/org/medron/facadepattern/pack/Main.java,1\4\14949baa19a4594de805ccfb0bf240147de00767
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 p
 @src/main/java/org/medron/commandpattern/pack/LightOnCommand.java,4\5\45dc1fefa91857ea0c3c7b69204b7e540055cb20
 g
