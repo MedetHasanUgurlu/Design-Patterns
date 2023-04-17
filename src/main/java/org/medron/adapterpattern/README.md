@@ -2,7 +2,7 @@
 "The Sith Control Everything, You Just Don't Know It."  
 ****
 ![img_2.png](img_2.png)
-
+![img_3.png](img_3.png)
 ### Recipes
 1) Write adapter class which you want to adapt to another class.
 2) Implements to target interface.

@@ -5,6 +5,8 @@
 1) Subsystem should be connected to Facade.
 2) Facade does not affect the behaviour of subsystem.
 3) Facade only uses it
+4) ![img_1.png](img_1.png)
+5) ![img_2.png](img_2.png)
 ***
 **_Facade_**
 

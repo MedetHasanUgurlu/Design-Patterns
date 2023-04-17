@@ -5,6 +5,7 @@
 
 ![img.png](img.png)
 ![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 *****
 1) First generate Command Interface.
 2) Write commands which implements Command interface.
