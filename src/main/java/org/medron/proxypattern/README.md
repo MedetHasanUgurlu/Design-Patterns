@@ -6,46 +6,47 @@ Bu desen, çeşitli senaryolarda kullanılabilir. Örneğin, ağdaki uzaktaki bi
 #### Main Idea
 1) Proxy Class take the place which real concrete class.
 2) We easily configure the real class in proxy class. 
-
+![img.png](img.png)
 ****
     // Gerçek dosya nesnesi arayüzü
     interface Dosya {
-    void oku();
+        void oku();
     }
 ***
 
     // Gerçek dosya sınıfı
     class GercekDosya implements Dosya {
-    private String dosyaAdi;
+        private String dosyaAdi;
 
-    public GercekDosya(String dosyaAdi) {
-    this.dosyaAdi = dosyaAdi;
-    yukle();
-    }
+        public GercekDosya(String dosyaAdi) {
+            this.dosyaAdi = dosyaAdi;
+            yukle();
+        }
 
-    private void yukle() {
-    System.out.println("Dosya yükleniyor: " + dosyaAdi);
-    }
+        private void yukle() {
+            System.out.println("Dosya yükleniyor: " + dosyaAdi);
+        }
 
-    public void oku() {
-    System.out.println("Dosya okunuyor: " + dosyaAdi);
-    }}
+        public void oku() {
+            System.out.println("Dosya okunuyor: " + dosyaAdi);
+        }}
 ***
     // Proxy dosya sınıfı
     class ProxyDosya implements Dosya {
-    private String dosyaAdi;
-    private GercekDosya gercekDosya;
+        private String dosyaAdi;
+        private GercekDosya gercekDosya;
 
-    public ProxyDosya(String dosyaAdi) {
-    this.dosyaAdi = dosyaAdi;
-    }
+        public ProxyDosya(String dosyaAdi) {
+            this.dosyaAdi = dosyaAdi;
+        }
 
-    public void oku() {
-    if (gercekDosya == null) {
-    gercekDosya = new GercekDosya(dosyaAdi);
+        public void oku() {
+            if (gercekDosya == null) {
+                gercekDosya = new GercekDosya(dosyaAdi);
+            }
+            System.out.println("Dosya okunuyor: " + dosyaAdi);
+        }
     }
-    System.out.println("Dosya okunuyor: " + dosyaAdi);
-    }}
 ***
     // Kullanım
     Dosya dosya = new ProxyDosya("ornek_dosya.txt");

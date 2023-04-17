@@ -3,6 +3,8 @@
 * Composite pattern composes objects in terms of a _tree structure_ to represent part as well as whole hierarchy.
 * **This pattern creates a class that contains group of its own objects**. 
 
+![img_1.png](img_1.png)
+
 ### Recipe
 1) We need base class it should be an interface or abstract.
 2) Write leafs which implements the base class

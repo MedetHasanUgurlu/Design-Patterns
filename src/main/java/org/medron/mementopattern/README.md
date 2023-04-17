@@ -5,7 +5,8 @@ Memento deseninde üç temel bileşen vardır: Originator (Nesne), Memento ve Ca
 **Originator**, durumu saklanacak olan nesnedir.
 **Memento**, nesnenin geçmiş durumunu temsil eder
 **Caretaker** ise Memento'ları yönetir.
-
+![img.png](img.png)
+![img_1.png](img_1.png)
 ***
 ### Recipe
 

@@ -1,5 +1,5 @@
 ## State Pattern
-
+![img.png](img.png)
 ### Recipe
 1) Write State interface which includes behaviour method
 2) Secondly, Make concrete state class implements the State
