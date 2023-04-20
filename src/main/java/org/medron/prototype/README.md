@@ -2,6 +2,7 @@
 
 "500 years in the spirit realm, you pick up a thing or two" \
 _**Kai**_
+![img.png](img.png)
 
 #### Recipe
 └┴┬ Only implements the Cloneable interface, that's all. 
@@ -38,3 +39,4 @@ _**Kai**_
 
 ### Result
 1 Medo
+# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns)

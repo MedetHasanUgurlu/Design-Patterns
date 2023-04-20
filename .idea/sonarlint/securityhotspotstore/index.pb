@@ -432,10 +432,6 @@ c
 3src/main/java/org/medron/compositepattern/README.md,4\e\4e45671aa8c53656b81367f45795921222ff419b
 a
 1src/main/java/org/medron/mementopattern/README.md,3\e\3efd6b7b3afff0ebe299310a38b343f8394e914b
-c
-3src/main/java/org/medron/singletonpattern/README.md,1\6\16d5b32abe05d1681a675415ad8b146f89b1de72
-_
-/src/main/java/org/medron/proxypattern/README.md,4\4\44d832c157eb8e1a5ae5ef1825f8061095148e0f
 s
 Csrc/main/java/org/medron/singletonpattern/MainSingletonPattern.java,3\0\309706efb18180e2cda743d3d1f544d55ce6db16
 a
