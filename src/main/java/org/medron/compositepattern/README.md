@@ -12,10 +12,12 @@
 
 
 ***
+<br>
+
 * component – is the base interface for all the objects in the composition. 
 It should be either an **interface or an abstract class** with the common methods to manage the child composites.
 
-
+<br>
 
 
     public interface Department {
@@ -23,11 +25,12 @@ It should be either an **interface or an abstract class** with the common method
     }
 
 
+<br>
 
 * leaf – implements the default behavior of the base component. 
     It doesn't contain a reference to the other objects.
 
-
+<br>
 
 
     public class FinancialDepartment implements Department{
@@ -55,9 +58,10 @@ It should be either an **interface or an abstract class** with the common method
     public void showInfo() {
     System.out.println("Id: "+id+ "Name: "+name);
     }
+<br>
 
 * composite – has leaf elements. It implements the base component methods and defines the child-related operations.
-    
+ <br>   
 
 
     public class HeadDepartment implements Department{
