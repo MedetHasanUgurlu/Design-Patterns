@@ -126,18 +126,12 @@ e
 5src/main/java/org/medron/statepattern/pack2/Main.java,9\0\90d46772bf87d586da072cab025d6ce0346a00b3
 l
 <src/main/java/org/medron/statepattern/pack2/CoffeeMaker.java,5\7\57843fde468d8dafd0fc3de8d6950b7e248e624c
-n
->src/main/java/org/medron/compositepattern/pack/Department.java,a\9\a9ac53e79d6e6cfb0e87d11bad140bdf3c2cd886
 s
 Csrc/main/java/org/medron/compositepattern/pack/SalesDepartment.java,4\d\4d6159d0f3a51c0149c036d9740064d1183f8f24
 r
 Bsrc/main/java/org/medron/compositepattern/pack/HeadDepartment.java,a\c\acdfbf4ca71d1223208e77b0407cb369230ced29
-h
-8src/main/java/org/medron/compositepattern/pack/Main.java,f\0\f04be4d1bcb652e468458ff23d25234e5577ce6e
 j
 :src/main/java/org/medron/builderpattern/pack/Computer.java,a\f\afb068b8f4682bf0895889e7f4e86cc81d7cce7f
-w
-Gsrc/main/java/org/medron/compositepattern/pack/FinancialDepartment.java,2\0\2086c3a5bfc51fdaaea4e475715fa7b086f127eb
 g
 7src/main/java/org/medron/builderpattern/pack2/User.java,d\c\dcfe6bb8de6642aca5ee917163395fe5599c2dd8
 f
@@ -422,8 +416,6 @@ h
 8src/main/java/org/medron/factorypattern/pack/Circle.java,8\7\8742d986c44de8efb9bab5cb992f2400357ad152
 j
 :src/main/java/org/medron/factorypattern/pack/PackMain.java,2\d\2de66ea9b6d46a6148345b394445cd36d5add460
-c
-3src/main/java/org/medron/compositepattern/README.md,4\e\4e45671aa8c53656b81367f45795921222ff419b
 a
 1src/main/java/org/medron/mementopattern/README.md,3\e\3efd6b7b3afff0ebe299310a38b343f8394e914b
 s
