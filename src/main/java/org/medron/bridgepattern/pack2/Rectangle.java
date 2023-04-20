@@ -17,6 +17,6 @@ public class Rectangle extends Shape{
 
     @Override
     void draw() {
-        System.out.println("Rectangle- "+ color.toString()+"Length:"+x+"-"+y);
+        System.out.println("Rectangle- "+ color.toString()+" Length-"+x+"-"+y);
     }
 }

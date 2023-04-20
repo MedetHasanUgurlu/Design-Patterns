@@ -441,8 +441,6 @@ e
 b
 2src/main/java/org/medron/compoundpattern/README.md,a\0\a0841088faa50460ab8f5f6f057b2122355921c0
 a
-1src/main/java/org/medron/builderpattern/README.md,3\5\354676b4f6d18534d94df84ed62a0e8e88a2e52a
-a
 1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
 a
 1src/main/java/org/medron/commandpattern/README.md,4\1\4106c06016f2b95e1ceec208bffa446204171607

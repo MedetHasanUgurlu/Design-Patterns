@@ -66,5 +66,7 @@ Main
                 rectangle.draw();
             }
         }
+#### Result
+Rectangle- Orange Length-6-8
 
 ## [«««▓](https://github.com/MedetHasanUgurlu/Design-Patterns)
