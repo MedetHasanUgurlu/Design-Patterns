@@ -13,7 +13,7 @@
 
 #### Structural Design Patterns
 1) [Adapter Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/adapterpattern)
-2) [Bridge Pattern]()
+2) [Bridge Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/bridgepattern)
 3) [Composite Pattern]()
 4) [Decorator Pattern]()
 5) [Facade Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/facadepattern)

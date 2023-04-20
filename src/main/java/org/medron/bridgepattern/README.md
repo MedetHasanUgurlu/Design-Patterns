@@ -66,3 +66,5 @@ Main
                 rectangle.draw();
             }
         }
+
+## [«««▓](https://github.com/MedetHasanUgurlu/Design-Patterns)
