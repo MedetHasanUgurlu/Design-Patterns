@@ -15,7 +15,7 @@
 1) [Adapter Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/adapterpattern)
 2) [Bridge Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/bridgepattern)
 3) [Composite Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/compositepattern)
-4) [Decorator Pattern]()
+4) [Decorator Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/decoratorpattern)
 5) [Facade Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/facadepattern)
 6) [Proxy Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/proxypattern)
 

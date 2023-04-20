@@ -438,7 +438,3 @@ a
 1src/main/java/org/medron/adapterpattern/README.md,b\c\bc57adeef5dbb7e0523c8cded7ef01e7f0f98e62
 `
 0src/main/java/org/medron/facadepattern/README.md,6\6\66d1f7063e93bb7ad25ad4f48bcff846bab0aec9
-b
-2src/main/java/org/medron/templatepattern/README.md,b\8\b8627655c5f94bbdcca5dd6cdfefec2179a3d908
-_
-/src/main/java/org/medron/statepattern/README.md,1\9\19fce321af239fad97c6179a651696c41222360d
