@@ -1,4 +1,4 @@
-package org.medron.prototype.pack;
+package org.medron.prototypepattern.pack;
 
 public class Main {
     public static void main(String[] args) {

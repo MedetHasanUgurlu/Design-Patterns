@@ -6,8 +6,11 @@ public class LightOnCommand implements Command{
     public LightOnCommand(Light light) {
         this.light = light;
     }
+
     @Override
     public void execute() {
         System.out.println("Sensitivity: "+ light.getSensitivity()+ ", Color: "+ light.getColor()+ " is on.");
+
     }
 }
+

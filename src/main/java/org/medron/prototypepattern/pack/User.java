@@ -1,4 +1,4 @@
-package org.medron.prototype.pack;
+package org.medron.prototypepattern.pack;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
