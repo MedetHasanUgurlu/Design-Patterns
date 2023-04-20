@@ -1,7 +1,7 @@
 # Design Patterns
 ![img_1.png](img_1.png)
 
- ###### _**Every day adding one balloon for going Paradise Fall.**_
+ ###### _**Every day, add one balloon for going to Paradise Fall.**_
 
 ***
 #### Creational Design Patterns
