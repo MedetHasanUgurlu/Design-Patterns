@@ -5,7 +5,7 @@
 
 #### Creational Design Patterns
 
-***
+
 1) [Abstract Factory Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/abstractfactorypattern)
 2) [Builder Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/builderpattern)
 3) [Factory Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/factorypattern)
@@ -13,7 +13,7 @@
 5) [Singleton Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/singletonpattern)
 
 #### Structural Design Patterns
-***
+
 1) [Adapter Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/adapterpattern)
 2) [Bridge Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/bridgepattern)
 3) [Composite Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/compositepattern)
@@ -22,7 +22,7 @@
 6) [Proxy Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/proxypattern)
 
 #### Behavioral Design Patterns
-***
+
 1) [Command Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/commandpattern)
 2) [Iterator Pattern]()
 3) [Mediator Pattern]()
@@ -31,7 +31,7 @@
 6) [State Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/statepattern)
 7) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
 8) [Visitor Pattern]()
-***
+
 
 
 
