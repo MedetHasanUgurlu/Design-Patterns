@@ -1,5 +1,6 @@
 # Prototype Pattern
 ***
+500 years in the spirit realm, you pick up a thing or two
 #### Recipe
 └┴┬ Only implements the Cloneable interface, that's all. 
 
