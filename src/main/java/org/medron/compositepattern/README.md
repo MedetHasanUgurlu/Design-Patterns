@@ -22,42 +22,46 @@ It should be either an **interface or an abstract class** with the common method
 
 
     public interface Department {
-    void showInfo();
+        void showInfo();
     }
 
 
 <br>
 
-* leaf – implements the default behavior of the base component. 
+leaf – implements the default behavior of the base component. 
     It doesn't contain a reference to the other objects.
 
 <br>
 
 
     public class FinancialDepartment implements Department{
-    private int id;
-    private String name;
+        private int id;
+        private String name;
 
-    public FinancialDepartment(int id, String name) {
-    this.id = id;
-    this.name = name;
-    }
+        public FinancialDepartment(int id, String name) {
+            this.id = id;
+            this.name = name;
+        }
 
-    @Override
-    public void showInfo() {
-    System.out.println("Id: "+id+ "Name: "+name);
-    }
+        @Override
+        public void showInfo() {
+            System.out.println("Id: "+id+ "Name: "+name);
+        }
+
+<br>
+
     public class SalesDepartment implements Department {
-    private int id;
-    private String name;
+            private int id;
+            private String name;
 
-    public SalesDepartment(int id, String name) {
-    this.id = id;
-    this.name = name;
-    }
-    @Override
-    public void showInfo() {
-    System.out.println("Id: "+id+ "Name: "+name);
+        public SalesDepartment(int id, String name) {
+            this.id = id;
+            this.name = name;
+        }
+        @Override
+        public void showInfo() {
+            System.out.println("Id: "+id+ "Name: "+name);
+        }
     }
 <br>
 
@@ -66,29 +70,30 @@ It should be either an **interface or an abstract class** with the common method
 
 
     public class HeadDepartment implements Department{
-    Logger logger = Logger.getLogger("HeadDepartment.class.getName()");
-    private int id;
-    private String name;
-    List<Department> departments;
+        Logger logger = Logger.getLogger("HeadDepartment.class.getName()");
+        private int id;
+        private String name;
+        List<Department> departments;
 
-    public HeadDepartment(int id, String name) {
-        this.id = id;
-        this.name = name;
-        departments = new ArrayList<>();
-    }
+        public HeadDepartment(int id, String name) {
+            this.id = id;
+            this.name = name;
+            departments = new ArrayList<>();
+        }
 
-    @Override
-    public void showInfo() {
-        System.out.println("Id: "+id+ "Name: "+name);
-        departments.forEach(Department::showInfo);
-    }
+        @Override
+        public void showInfo() {
+            System.out.println("Id: "+id+ "Name: "+name);
+            departments.forEach(Department::showInfo);
+        }
 
-    public void addDepartment(Department department){
-        departments.add(department);
-    }
+        public void addDepartment(Department department){
+            departments.add(department);
+        }
 
-    public void removeDepartment(Department department){
-        departments.remove(department);
+        public void removeDepartment(Department department){
+            departments.remove(department);
+        }    
     }
 
 

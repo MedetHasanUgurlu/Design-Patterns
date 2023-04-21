@@ -10,7 +10,7 @@
 * **Inject** the *state* interface in maker class. 
 *  Rearrange the code.
 
-****
+<br>
 State interface
 
     public interface State {
@@ -20,85 +20,88 @@ State interface
         void grindBeans();
         void brew();
     }
-****
+<br>
 LatteState
 
     public class LatteState implements State {
-    @Override
-    public void selectCoffee() {
-        System.out.println("Latte selected.");
+        @Override
+        public void selectCoffee() {
+            System.out.println("Latte selected.");
+        }
+        @Override
+        public void addWater() {
+            System.out.println("Adding water for latte.");
+        }
+        @Override
+        public void addCoffeeBeans() {
+            System.out.println("Adding coffee beans for latte.");
+        }
+        @Override
+        public void grindBeans() {
+            System.out.println("Grinding coffee beans for latte.");
+        }
+        @Override
+        public void brew() {
+            System.out.println("Steaming milk for latte. Brewing latte.");
+        }
     }
-    @Override
-    public void addWater() {
-        System.out.println("Adding water for latte.");
-    }
-    @Override
-    public void addCoffeeBeans() {
-        System.out.println("Adding coffee beans for latte.");
-    }
-    @Override
-    public void grindBeans() {
-        System.out.println("Grinding coffee beans for latte.");
-    }
-    @Override
-    public void brew() {
-        System.out.println("Steaming milk for latte. Brewing latte.");
-    }
-***
+<br>
 EspressoState
 
     public class EspressoState implements State {
-    @Override
-    public void selectCoffee() {
-        System.out.println("Espresso selected.");
+        @Override
+        public void selectCoffee() {
+            System.out.println("Espresso selected.");
+        }
+        @Override
+        public void addWater() {
+            System.out.println("Adding water for espresso.");
+        }
+        @Override
+        public void addCoffeeBeans() {
+            System.out.println("Adding coffee beans for espresso.");
+        }
+        @Override
+        public void grindBeans() {
+            System.out.println("Grinding coffee beans for espresso.");
+        }
+        @Override
+        public void brew() {
+            System.out.println("Brewing espresso.");
+        }
     }
-    @Override
-    public void addWater() {
-        System.out.println("Adding water for espresso.");
-    }
-    @Override
-    public void addCoffeeBeans() {
-        System.out.println("Adding coffee beans for espresso.");
-    }
-    @Override
-    public void grindBeans() {
-        System.out.println("Grinding coffee beans for espresso.");
-    }
-    @Override
-    public void brew() {
-        System.out.println("Brewing espresso.");
-    }
-***
+<br>
 Maker -> Inject State
 
     public class CoffeeMaker {
 
-    private State state;
-    public CoffeeMaker() {
-        this.state = new LatteState();
+        private State state;
+        public CoffeeMaker() {
+            this.state = new LatteState();
+        }
+        public State getCoffeeMakerState() {
+            return state;
+        }
+        public void setCoffeeMakerState(State state) {
+            this.state = state;
+        }
+        public void selectCoffee() {
+            state.selectCoffee();
+        }
+        public void addWater() {
+            state.addWater();
+        }
+        public void addCoffeeBeans() {
+            state.addCoffeeBeans();
+        }
+        public void grindBeans() {
+            state.grindBeans();
+        }
+        public void brew() {
+            state.brew();
+        }
     }
-    public State getCoffeeMakerState() {
-        return state;
-    }
-    public void setCoffeeMakerState(State state) {
-        this.state = state;
-    }
-    public void selectCoffee() {
-        state.selectCoffee();
-    }
-    public void addWater() {
-        state.addWater();
-    }
-    public void addCoffeeBeans() {
-        state.addCoffeeBeans();
-    }
-    public void grindBeans() {
-        state.grindBeans();
-    }
-    public void brew() {
-        state.brew();
-    }
-***
+<br>
 Main Method
 
     public static void main(String[] args) {

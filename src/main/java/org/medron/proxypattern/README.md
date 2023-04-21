@@ -1,20 +1,21 @@
 # Proxy Pattern
-Proxy, gerçek nesnenin yerine geçer ve gerçek nesneye olan istekleri yönetir. Bu, gerçek nesnenin yükünü azaltabilir ve istemci ile gerçek nesne arasındaki iletişimi daha verimli hale getirebilir. Proxy, gerçek nesne yüklenirken ve yüklenme sonrasında istemciden gelen istekleri ele alabilir ve gerektiğinde gerçek nesne yüklemesini geciktirebilir.
-
-Bu desen, çeşitli senaryolarda kullanılabilir. Örneğin, ağdaki uzaktaki bir nesne ile iletişim kurmak için kullanılabilir. Proxy, gerçek nesneye yapılan istekleri ağ üzerinden göndererek gerçek nesneye olan bağlantıyı kurar. Başka bir örnek, diskteki bir dosyayı okumak için kullanılan bir proxy'dir. Proxy, dosyanın yüklenmesini geciktirebilir ve istemcinin yalnızca dosyanın bir bölümünü okumasına izin verebilir.
-***
-#### Main Idea
-1) Proxy Class take the place which real concrete class.
-2) We easily configure the real class in proxy class. 
 ![img.png](img.png)
-****
-    // Gerçek dosya nesnesi arayüzü
+#### Main Idea
+1) Proxy Class takes the place which real concrete class.
+2) We easily configure the real class in proxy class. 
+
+
+<br>
+
+Gerçek dosya nesnesi arayüzü
+
     interface Dosya {
         void oku();
     }
-***
+<br>
 
-    // Gerçek dosya sınıfı
+Gerçek dosya sınıfı
+
     class GercekDosya implements Dosya {
         private String dosyaAdi;
 
@@ -29,9 +30,12 @@ Bu desen, çeşitli senaryolarda kullanılabilir. Örneğin, ağdaki uzaktaki bi
 
         public void oku() {
             System.out.println("Dosya okunuyor: " + dosyaAdi);
-        }}
-***
-    // Proxy dosya sınıfı
+        }
+    }
+<br>
+
+Proxy dosya sınıfı
+
     class ProxyDosya implements Dosya {
         private String dosyaAdi;
         private GercekDosya gercekDosya;
@@ -47,8 +51,10 @@ Bu desen, çeşitli senaryolarda kullanılabilir. Örneğin, ağdaki uzaktaki bi
             System.out.println("Dosya okunuyor: " + dosyaAdi);
         }
     }
-***
-    // Kullanım
+<br>
+
+**Result**
+
     Dosya dosya = new ProxyDosya("ornek_dosya.txt");
     dosya.oku(); // dosya yükleniyor ve okunuyor
     dosya.oku(); // sadece dosya okunuyor (yükleme işlemi tekrar yapılmıyor)

@@ -24,13 +24,12 @@
 #### Behavioral Design Patterns
 
 1) [Command Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/commandpattern)
-2) [Iterator Pattern]()
-3) [Mediator Pattern]()
-4) [Memento Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/mementopattern)
-5) [Observer Pattern]()
-6) [State Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/statepattern)
-7) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
-8) [Visitor Pattern]()
+2) [Mediator Pattern]()
+3) [Memento Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/mementopattern)
+4) [Observer Pattern]()
+5) [State Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/statepattern)
+6) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
+7) [Visitor Pattern]()
 
 
 

@@ -1,7 +1,12 @@
 # Bridge Pattern
-“My cabbages!!” \
+>“My cabbages!!” \
 The Cabbage Merchant
+
+
+
+
 <br>
+
 ![img_1.png](img_1.png)
 <br>
 Abstraction

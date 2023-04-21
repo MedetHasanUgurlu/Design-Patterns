@@ -5,7 +5,7 @@
 2) In static builder class, you set the value then return the static class.
 3) Finally, write build method which takes static class and returns the new Entity.
 
-***
+<br>
 
 
     @Getter
@@ -17,48 +17,50 @@
         private int memory;
 
 
-    private Computer(ComputerBuilder builder) {
-        this.brand = builder.brand;
-        this.model = builder.model;
-        this.year = builder.year;
-        this.memory = builder.memory;
-    }
-    public static class ComputerBuilder{
-        private String brand;
-        private String model;
-        private int year;
-        private int memory;
+        private Computer(ComputerBuilder builder) {
+            this.brand = builder.brand;
+            this.model = builder.model;
+            this.year = builder.year;
+            this.memory = builder.memory;
+        }
+    
+        public static class ComputerBuilder{
+            private String brand;
+            private String model;
+            private int year;
+            private int memory;
 
-        public ComputerBuilder setBrand(String brand){
-            this.brand = brand;
-            return this;
+            public ComputerBuilder setBrand(String brand){
+                this.brand = brand;
+                return this;
+            }
+            public ComputerBuilder setModel(String model){
+                this.model = model;
+                return this;
+            }
+            public ComputerBuilder setYear(int year){
+                this.year = year;
+                return this;
+            }
+            public ComputerBuilder setMemory(int memory){
+                this.memory = memory;
+                return this;
+            }
+            public Computer build(){
+                return new Computer(this);
+            }
         }
-        public ComputerBuilder setModel(String model){
-            this.model = model;
-            return this;
-        }
-        public ComputerBuilder setYear(int year){
-            this.year = year;
-            return this;
-        }
-        public ComputerBuilder setMemory(int memory){
-            this.memory = memory;
-            return this;
-        }
-        public Computer build(){
-            return new Computer(this);
-        }
-    }
 
-    @Override
-    public String toString() {
-        return "Computer{" +
-                "brand='" + brand + '\'' +
-                ", model='" + model + '\'' +
-                ", year=" + year +
-                ", memory=" + memory +
-                '}';
-    }
+        @Override
+        public String toString() {
+            return "Computer{" +
+                    "brand='" + brand + '\'' +
+                    ", model='" + model + '\'' +
+                    ", year=" + year +
+                    ", memory=" + memory +
+                    '}';
+        }
+    }   
 <br>
 
 **Result**
@@ -72,6 +74,6 @@
             .build();
         System.out.println(computer.toString());
     }
-**Computer{brand='MSI', model='RTX-3060', year=2020, memory=32}**
+_**Computer{brand='MSI', model='RTX-3060', year=2020, memory=32}**_
 
 ## [«««Home«««](https://github.com/MedetHasanUgurlu/Design-Patterns)

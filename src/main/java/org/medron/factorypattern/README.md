@@ -1,25 +1,32 @@
 # Factory Pattern
-![img.png](img.png)
-![img_1.png](img_1.png)
+
 ![img_2.png](img_2.png)
 
-    ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓
+<br>
+
     public interface Shape {
-    void info();
+        void info();
     }
+<br>
 
     public class Circle implements Shape{
-    @Override
-    public void info() {
-        System.out.println("Circle...");
-    }}
-    public class Square implements Shape{
-    @Override
-    public void info() {
-        System.out.println("Square");
-    }}
+        @Override
+        public void info() {
+            System.out.println("Circle...");
+        }
+    }
+<br>  
 
-    ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓
+    public class Square implements Shape{
+        @Override
+        public void info() {
+            System.out.println("Square");
+        }
+    }
+
+<br>    
+Using Enum
+
     public enum ShapeFactoryV2 {
     Circle{
         @Override
@@ -35,10 +42,11 @@
         }
     };
     public abstract Shape createShape();
-    } 
+    }
 
-    ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓ ▓▓▓▓
-        public static void main(String[] args) {
+<br>
+
+    public static void main(String[] args) {
         Shape s = ShapeFactoryV2.Circle.createShape();
         s.info();
     }
