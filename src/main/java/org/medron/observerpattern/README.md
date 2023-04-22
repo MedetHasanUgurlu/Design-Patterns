@@ -40,6 +40,7 @@
 
 
 * Observer
+<br>
 
 
     public abstract class Observer {
@@ -47,6 +48,7 @@
     }
 
 * Observer Concretes
+<br>
 
 
     public class SalesReportScreen extends Observer{
@@ -67,6 +69,7 @@
 
 
 * Main
+<br>
 
     
     public class Main {
