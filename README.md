@@ -26,7 +26,7 @@
 1) [Command Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/commandpattern)
 2) [Mediator Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/mediatorpattern)
 3) [Memento Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/mementopattern)
-4) [Observer Pattern]()
+4) [Observer Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/observerpattern)
 5) [State Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/statepattern)
 6) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
 7) [Visitor Pattern]()

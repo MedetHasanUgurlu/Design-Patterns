@@ -478,8 +478,6 @@ c
 3src/main/java/org/medron/compositepattern/README.md,4\e\4e45671aa8c53656b81367f45795921222ff419b
 i
 9src/main/java/org/medron/abstractfactorypattern/README.md,e\f\ef6ef38ec86615e9783b7cdeab2c8a317b231eb0
-_
-/src/main/java/org/medron/proxypattern/README.md,4\4\44d832c157eb8e1a5ae5ef1825f8061095148e0f
 l
 <src/main/java/org/medron/mediatorpattern/pack/Colleague.java,0\d\0dc4b5feb8e6de5f48a7f626b5652548347560ac
 a
@@ -506,8 +504,6 @@ b
 2src/main/java/org/medron/mediatorpattern/README.md,8\4\840c5fd617d2496e861b5416df3bd121e41d6570
 m
 =src/main/java/org/medron/mediatorpattern/pack2/CMediator.java,b\1\b1b125fa181c9b049b3d0bfb0b50d5210e6f7fba
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 l
 <src/main/java/org/medron/mediatorpattern/pack2/Mediator.java,e\3\e3188f13e5ee81b91f73e9629039ab7f730f5c60
 l
