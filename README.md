@@ -29,8 +29,10 @@
 4) [Observer Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/observerpattern)
 5) [State Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/statepattern)
 6) [Template Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/templatepattern)
-7) [Visitor Pattern]()
 
+<br>
+
+![img](patterns2.jpg)
 
 
 
