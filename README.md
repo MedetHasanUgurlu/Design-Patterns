@@ -9,7 +9,7 @@
 1) [Abstract Factory Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/abstractfactorypattern)
 2) [Builder Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/builderpattern)
 3) [Factory Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/factorypattern)
-4) [Prototype Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/prototype)
+4) [Prototype Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/prototypepattern)
 5) [Singleton Pattern](https://github.com/MedetHasanUgurlu/Design-Patterns/tree/master/src/main/java/org/medron/singletonpattern)
 
 #### Structural Design Patterns
