@@ -1,5 +1,5 @@
 # Decorator Pattern
-Just adding sugar to Tea, that's all. 
+Just adding sugar to Tea, that's all. Inject feature
 
 ![img.png](pack/img.png)
 
