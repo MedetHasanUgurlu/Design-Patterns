@@ -43,4 +43,4 @@ _**Kai**_
 
 ### Result
 1 Medo
-# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns)
+# [«««](https://github.com/MedetHasanUgurlu/Design-Patterns) Home
